@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'config-server-centralizada'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38986D2558F547C0849D548715C569AE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0A04FC1D6AC4AEAAB2A807D3936C7C2 }}
           package: '*.jar'
